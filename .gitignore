@@ -9,6 +9,9 @@ venv
 venv/
 .myvenv
 myvenv/
+django_env
+.django_env
+django_env/
 db.sqlite3
 /static
 .DS_Store
