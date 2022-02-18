@@ -1,0 +1,1 @@
+# django_new_tutorial
