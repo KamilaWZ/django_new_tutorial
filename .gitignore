@@ -1,0 +1,16 @@
+*.pyc
+*~
+__pycache__
+env
+.env
+env/
+.venv
+venv
+venv/
+.myvenv
+myvenv/
+db.sqlite3
+/static
+.DS_Store
+Packages/
+PostgreSQL.xcodeproj/
